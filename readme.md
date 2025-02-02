@@ -43,12 +43,8 @@ pnpm run build
 
 ## Demo
 
-<!-- [copy tab demo](./copytab-demo.mp4) -->
+<video src="./copytab-demo.mp4"  width="320" height="240" controls/>
 
-<video width="320" height="240" controls>
-  <source src="./copytab-demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Authors
 
