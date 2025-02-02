@@ -43,7 +43,7 @@ pnpm run build
 
 ## Demo
 
-<video src="./copytab-demo.mp4"  width="320" height="240" controls/>
+<video src="./copytab-demo.mp4"  width="320" height="240" controls ></video>
 
 
 ## Authors
