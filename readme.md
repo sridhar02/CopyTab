@@ -43,8 +43,9 @@ pnpm run build
 
 ## Demo
 
-<video src="./copytab-demo.mp4"  width="320" height="240" controls ></video>
+![CopyTab Demo Gif](./copytab-demo.gif)
 
+[CopyTab Demo Video](./copytab-demo.mp4)
 
 ## Authors
 
