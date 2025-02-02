@@ -42,7 +42,8 @@ pnpm run build
 - The extension should now appear in your extensions list, and you can test it by using the specified keyboard shortcut.
 
 ## Demo
-Insert gif or link to demo
+
+[copy tab demo](./copytab-demo.mp4)
 
 ## Authors
 
